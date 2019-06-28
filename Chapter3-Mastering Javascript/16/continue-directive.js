@@ -8,3 +8,18 @@ for (i = 0; i < 6; i++) {
 // Perulangan Ke 2
 // Perulangan Ke 4
 // Perulangan Ke 5
+
+/* 
+//Example #1 :
+//Remove the comment [SHIFT+ALT+A]:
+var text = "";
+
+for (var i = 0; i < 10; i++) {
+  if (i === 3) {
+    continue;
+  }
+  text = text + i;
+}
+
+console.log(text);
+//output: "012456789" */
