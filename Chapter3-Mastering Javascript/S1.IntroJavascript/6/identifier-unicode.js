@@ -7,6 +7,9 @@ console.log(deep_tech);
 var deeptech2019 = "deeptech2019"
 console.log(deeptech2019);
 
+var namingConvention = "camelCase"
+console.log(namingConvention);
+
 
 var π = Math.PI;
 console.log(π);
