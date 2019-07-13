@@ -9,3 +9,6 @@ Output :
   haircolor: 'black'
 }
  */
+
+//Another Example:
+var o = {}; //Buat object kosong
