@@ -10,13 +10,4 @@ Person.skill = "singing";
 
 var maudy = new Person("Maudy", "Ayunda Faza", 23, "Black")
 
-console.log(maudy);
-/*
-Output :
-cantik {
-  firstname: 'Maudy',
-  lastname: 'Ayunda Faza',
-  age: 25,
-  eyecolor: 'Black'
-}
- */
+console.log(maudy.skill); //undefined
