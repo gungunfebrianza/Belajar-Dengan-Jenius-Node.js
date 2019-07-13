@@ -25,7 +25,9 @@ function Food(name, price) {
   this.category = 'food';
 }
 
-console.log(new Food('cheese', 5).name);
-console.log(new Food('cheese', 5).category);
+var x = new Food('cheese', 5);
+
+console.log(x.name);
+console.log(x.category);
 // expected output: "cheese"
 
