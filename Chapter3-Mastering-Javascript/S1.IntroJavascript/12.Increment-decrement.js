@@ -7,8 +7,7 @@
       then it returns the value after incrementing.
   */
 
-var a = 5,
-  b = 5;
+var a = 5, b = 5;
 var a = ++a;
 var b = --b;
 console.log(a);
