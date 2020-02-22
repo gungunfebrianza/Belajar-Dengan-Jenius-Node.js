@@ -1,12 +1,10 @@
-    var person = {
-      fullName: function(city, country) {
-        return this.firstName + ' ' + this.lastName + ',' + city + ',' + country;
-      }
-    };
+  var person = {
+    fullName: function (city, country) {
+      return this.firstName + ' ' + this.lastName + ',' + city + ',' + country;
+    }
+  };
 
-    var person1 = { firstName: 'John', lastName: 'Doe' };
+  var person1 = { firstName: 'Gun Gun', lastName: 'Febrianza' };
 
-    var person2 = { firstName: 'Mary', lastName: 'Doe' };
-
-    var x = person.fullName.call(person1, 'Oslo', 'Norway');
-    console.log(x);
+  var x = person.fullName.call(person1, 'Bandung', 'Indonesia');
+  console.log(x); // Gun Gun Febrianza,Bandung,Indonesia

@@ -4,15 +4,15 @@ var person = {
   }
 };
 var person1 = {
-  firstName: 'John',
-  lastName: 'Doe'
+  firstName: 'Gun Gun',
+  lastName: 'Febrianza'
 };
 var person2 = {
-  firstName: 'Mary',
-  lastName: 'Doe'
+  firstName: 'Nikolaj',
+  lastName: 'Vestorp'
 };
 var x = person.fullName.call(person1);
-console.log(x); //John Doe
+console.log(x); //Gun Gun Febrianza
 
 // Another Example
 function Product(name, price) {
@@ -27,7 +27,6 @@ function Food(name, price) {
 
 var x = new Food('cheese', 5);
 
-console.log(x.name);
-console.log(x.category);
-// expected output: "cheese"
+console.log(x.name); // cheese
+console.log(x.category); // food
 
