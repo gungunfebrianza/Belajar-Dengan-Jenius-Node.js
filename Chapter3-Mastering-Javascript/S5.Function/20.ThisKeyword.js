@@ -2,8 +2,11 @@
 function account(username, password) {
   this.username = username;
   this.password = password;
+  this.captcha = 9998;
 }
 
 let myaccount = new account('gun@gmail.com', 'test1234');
 console.log(myaccount);
 console.log(typeof myaccount);
+console.log(myaccount.captcha);
+
