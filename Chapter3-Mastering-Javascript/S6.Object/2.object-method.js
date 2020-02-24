@@ -3,7 +3,7 @@ var mod = {
   lastname: 'Ayunda Faza',
   age: 23,
   haircolor: 'black',
-  fullname: function () {
+  fullname() {
     console.log("Maudy Ayunda Faza");
   }
 }
