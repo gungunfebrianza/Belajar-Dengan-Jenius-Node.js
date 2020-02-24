@@ -1,0 +1,4 @@
+try {
+  test()
+} catch (ex) {
+}
