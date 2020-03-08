@@ -22,7 +22,18 @@ var y = -2 / 0; // y memproduksi -Infinity
 console.log(x);
 console.log(y);
 
-
-
 // Infinity is a number: typeof Infinity returns number.
 typeof Infinity; // returns "number"
+
+function div(x) {
+  if (Number.isFinite(1000 / x)) {
+    return "Number is NOT Infinity.";
+  }
+  return "Number is Infinity!";
+}
+
+console.log(div(0));
+// expected output: "Number is Infinity!"
+
+console.log(div(1));
+// expected output: "Number is NOT Infinity."
