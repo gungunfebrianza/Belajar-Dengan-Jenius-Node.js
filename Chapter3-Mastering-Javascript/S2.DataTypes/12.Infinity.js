@@ -37,3 +37,10 @@ console.log(div(0));
 
 console.log(div(1));
 // expected output: "Number is NOT Infinity."
+
+Number.isFinite(Infinity); // false
+Number.isFinite(NaN); // false
+Number.isFinite(-Infinity); // false
+
+Number.isFinite(0); // true
+Number.isFinite(2e64); // true
