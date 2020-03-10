@@ -1,5 +1,12 @@
-  const getName = () => {
-    return "Maudy Ayunda";
-  };
+const getName = () => {
+  return "Maudy Ayunda";
+};
 
-  exports.getName = getName;
+exports.getHerSong = () => {
+  return "Perahu Kertas";
+};
+
+const birthday = "19 December 1994";
+
+exports.getName = getName;
+exports.birthday = birthday;
