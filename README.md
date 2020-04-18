@@ -1,9 +1,6 @@
 # Book-Mastering-Backend
 Author : Gun Gun Febrianza
 
-
-
-
 * Item 1
 * Item 2
   * Item 2a
@@ -14,7 +11,7 @@ Author : Gun Gun Febrianza
 * <h2>Metode Belajar</h2>	
   * Learning Problems & Abstraction Control
 * <h2>Matthew Effect in Reading</h2>	
-* <h2>Persiapan	</h2>	
+* <h2>Persiapan</h2>	
   * Apa saja yang harus dipersiapkan?	
     * Install Node.js	
     * Install Visual Studio Code	
