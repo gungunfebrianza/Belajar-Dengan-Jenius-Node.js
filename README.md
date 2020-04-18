@@ -3,8 +3,8 @@ Author : Gun Gun Febrianza
 
 ## Table of Contents
 ## Open Library Indonesia
-### Metode Belajar
-#### Learning Problems & Abstraction Control
+<ul>Metode Belajar</ul>
+<li>Learning Problems & Abstraction Control</li>
 * Matthew Effect in Reading
 * Persiapan
   * Apa saja yang harus dipersiapkan?	
@@ -20,7 +20,7 @@ Author : Gun Gun Febrianza
   * Penggunaan Kode ?
   * Terdapat Kesalahan?
   * Pertanyaan, Kritik dan Saran?
-
+***
 * Chapter 1
 * Belajar Open Web Platform
 
