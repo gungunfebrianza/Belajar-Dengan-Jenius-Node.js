@@ -580,40 +580,47 @@ Amazon Quantum Ledger Database (QLDB)	602
 Amazon Neptune	602
 8.	Database Migration Service	602
 Amazon Database Migration Service (DMS)	602
-Subchapter 3 – Introduction to Big Data	603
-Subchapter 4 – Introduction to NoSQL	605
-1.	CAP Theorem	606
-Consistency	606
-Availability	606
-Partition Tolerance	606
-2.	BASE Approach	607
-Basic Availability	607
-Soft State	607
-Eventual Consistency	607
-3.	Keunggulan NoSQL?	607
-Schemaless	607
-Scalable	607
-4.	Klasifikasi NoSQL Database	609
-Key-value Store	609
-Column-oriented	610
-Graph	610
-Document Oriented	610
-5.	Big Data & NoSQL	612
-Chapter 8	613
-Web Service	613
-Subchapter 1 – API	614
-Subchapter 2 – Remote Procedure Call	615
-1.	JSON-RPC	615
-Subchapter 3 – REST	617
-RESTful Web Service	617
-Uniform Interface	618
-Client-Server Architecture	619
-Stateless	619
-Cacheable	620
-Layered System	620
-Code on demand	620
-Daftar Pustaka	621
-Tentang Penulis	623
+
+* Subchapter 3 – Introduction to Big Data	
+
+* Subchapter 4 – Introduction to NoSQL	
+ * 1.	CAP Theorem	
+  * Consistency	
+  * Availability	
+  * Partition Tolerance	
+ * 2.	BASE Approach	
+  * Basic Availability	
+  * Soft State	
+  * Eventual Consistency	
+ * 3.	Keunggulan NoSQL?	
+  * Schemaless	
+  * Scalable	
+ * 4.	Klasifikasi NoSQL Database	
+  * Key-value Store	
+  * Column-oriented	
+  * Graph	
+  * Document Oriented	
+ * 5.	Big Data & NoSQL	
+ 
+* Chapter 8	
+* Web Service	
+
+* Subchapter 1 – API	
+
+* Subchapter 2 – Remote Procedure Call	
+ * JSON-RPC	
+ 
+* Subchapter 3 – REST	
+ * 1.RESTful Web Service	
+  * Uniform Interface	
+  * Client-Server Architecture	
+  * Stateless	
+  * Cacheable	
+  * Layered System	
+  * Code on demand	
+  
+* Daftar Pustaka	
+* Tentang Penulis	
 
 
 
