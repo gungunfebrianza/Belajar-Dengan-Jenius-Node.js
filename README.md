@@ -25,8 +25,8 @@ Author : Gun Gun Febrianza
 * Belajar Open Web Platform
 
 * Subchapter 1 – Apa itu Open Web Platform
-  * Technical Specification
-  * HTML 5.2
+  * 1. Technical Specification
+  * 2. HTML 5.2
    * Semantic Advantage
    * Connectivity Advantage
    * Storage Advantage
