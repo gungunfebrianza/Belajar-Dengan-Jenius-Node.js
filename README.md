@@ -11,13 +11,13 @@ Author : Gun Gun Febrianza
   
 ## Table of Contents
 ## Open Library Indonesia
-## * Metode Belajar
+* Metode Belajar
   * Learning Problems & Abstraction Control
-Matthew Effect in Reading	
-Persiapan	
-Apa saja yang harus dipersiapkan?	
-Install Node.js	
-Install Visual Studio Code	
+* <h2>Matthew Effect in Reading</h2>	
+* Persiapan	
+  * Apa saja yang harus dipersiapkan?	
+    * Install Node.js	
+    * Install Visual Studio Code	
 Install Python
 Install Google Chrome atau Firefox.	
 Install git
