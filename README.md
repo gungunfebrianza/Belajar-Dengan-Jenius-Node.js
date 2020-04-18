@@ -11,17 +11,17 @@ Author : Gun Gun Febrianza
   
 ## Table of Contents
 ## Open Library Indonesia
-* Metode Belajar
-  * Learning Problems & Abstraction Control
+* <h2>Metode Belajar</h2>	
+  * <h3>	Learning Problems & Abstraction Control</h3>	
 * <h2>Matthew Effect in Reading</h2>	
-* Persiapan	
+* <h2>Persiapan	</h2>	
   * Apa saja yang harus dipersiapkan?	
     * Install Node.js	
     * Install Visual Studio Code	
-Install Python
-Install Google Chrome atau Firefox.	
-Install git
-Install Postman
+    * Install Python
+    * Install Google Chrome atau Firefox.	
+    * Install git
+    * Install Postman
 Konvensi Penulisan?
 Feedback?
 Kode Sumber?
