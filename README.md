@@ -1,6 +1,10 @@
 # Belajar Dengan Jenius Amazon Web Service & Node.js
 Author : Gun Gun Febrianza
 
+
+<img src="Cover.png">
+
+
 ## Table of Contents
 ## Open Library Indonesia
 Metode Belajar
