@@ -3,8 +3,8 @@ Author : Gun Gun Febrianza
 
 ## Table of Contents
 ## Open Library Indonesia
-<ul>Metode Belajar</ul>
-<li>Learning Problems & Abstraction Control</li>
+Metode Belajar
+Learning Problems & Abstraction Control
 * Matthew Effect in Reading
 * Persiapan
   * Apa saja yang harus dipersiapkan?	
@@ -24,16 +24,16 @@ Author : Gun Gun Febrianza
 * Chapter 1
 * Belajar Open Web Platform
 
-* Subchapter 1 – Apa itu Open Web Platform
-  * Technical Specification
-  * HTML 5.2
-   * 1. Semantic Advantage
-   * 2. Connectivity Advantage
-   * 3. Storage Advantage
-   * 4. Multimedia Advantage
-   * 5. Performance Advantage
-   * 6. Device Access Advantage
-   * 7. Specification
+* ### Subchapter 1 – Apa itu Open Web Platform
+  * #### **Technical Specification**
+  * #### **HTML 5.2**
+     * Semantic Advantage
+     * Connectivity Advantage
+    * Storage Advantage
+    * Multimedia Advantage
+    * Performance Advantage
+    * Device Access Advantage
+    * Specification
   * Web Assembly
    * 1. Safe
    * 2. Fast
