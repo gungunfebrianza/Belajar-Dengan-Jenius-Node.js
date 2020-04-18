@@ -1,24 +1,19 @@
 # Book-Mastering-Backend
 Author : Gun Gun Febrianza
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
 ## Table of Contents
 ## Open Library Indonesia
-* <h2>Metode Belajar
+* Metode Belajar
   * Learning Problems & Abstraction Control
 * Matthew Effect in Reading
 * Persiapan
   * Apa saja yang harus dipersiapkan?	
-    * Install Node.js	
-    * Install Visual Studio Code	
-    * Install Python
-    * Install Google Chrome atau Firefox.	
-    * Install git
-    * Install Postman
+   * Install Node.js	
+   * Install Visual Studio Code	
+   * Install Python
+   * Install Google Chrome atau Firefox.	
+   * Install git
+   * Install Postman
   * Konvensi Penulisan?
   * Feedback?
   * Kode Sumber?
