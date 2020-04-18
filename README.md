@@ -3,10 +3,10 @@ Author : Gun Gun Febrianza
 
 ## Table of Contents
 ## Open Library Indonesia
-* <h2>Metode Belajar</h2>
+* Metode Belajar
   * Learning Problems & Abstraction Control
-* <h2>Matthew Effect in Reading</h2>
-* <h2>Persiapan</h2>
+* Matthew Effect in Reading
+* Persiapan
   * Apa saja yang harus dipersiapkan?	
    * Install Node.js	
    * Install Visual Studio Code	
@@ -52,40 +52,41 @@ Author : Gun Gun Febrianza
    * Application
   
 * <h2>Subchapter 2 – Apa itu Web Application?</h2>
-1. Server	63
-File Server	64
-Mail Server	65
-Proxy Server	65
-Application Server	66
-Database Server	66
-Messaging Server	67
-2. Virtual Private Server	69
-Virtualization	69
-Virtual Machine	72
-Hypervisor	73
-3. Web Server	74
-4. Web Page	76
-Static Web Page	76
-Dynamic Web Page	76
-Progressive Web Application (PWA)	77
-Single Page Application (SPA)	78
-5. Network	81
-Local Area Network (LAN)	81
-World Area Network (WAN)	81
-Internet Service Provide (ISP)	81
-6. Internet	82
-Internet Transit	82
-Satellite & Fiber Optic	83
-7. Internet Exchange Point	84
-8. Content Delivery Network (CDN)	86
-9. Cloud Computing	87
-Cloud Computing Execution Model	88
-Cloud Service Provider	90
-Scalability	91
-Load Balancer	95
-10. Serverless Computing	96
-FaaS Provider	96
-AWS Lambda	96
+  * 1. Server
+   * File Server
+   * Mail Server
+   * Proxy Server
+   * Application Server
+   * Database Server
+   * Messaging Server
+  * 2. Virtual Private Server
+   * Virtualization
+   * Virtual Machine
+   * Hypervisor
+  * 3. Web Server
+  * 4. Web Page
+   * Static Web Page
+   * Dynamic Web Page
+   * Progressive Web Application (PWA)
+   * Single Page Application (SPA)
+  * 5. Network
+   * Local Area Network (LAN)
+   * World Area Network (WAN)
+   * Internet Service Provide (ISP)
+  * 6. Internet
+   * Internet Transit
+   * Satellite & Fiber Optic
+  * 7. Internet Exchange Point
+  * 8. Content Delivery Network (CDN)
+  * 9. Cloud Computing
+   * Cloud Computing Execution Model
+   * Cloud Service Provider
+   * Scalability
+   * Load Balancer
+  * 10. Serverless Computing
+   * FaaS Provider
+   * AWS Lambda
+   
 Subchapter 3 – Bedah Konsep HTTP	97
 1. HTTP & URL	97
 HTTP	97
