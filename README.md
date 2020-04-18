@@ -3,10 +3,10 @@ Author : Gun Gun Febrianza
 
 ## Table of Contents
 ## Open Library Indonesia
-* Metode Belajar
+* <h2>Metode Belajar</h2>
   * Learning Problems & Abstraction Control
-* Matthew Effect in Reading
-* Persiapan
+* <h2>Matthew Effect in Reading</h2>
+* <h2>Persiapan</h2>
   * Apa saja yang harus dipersiapkan?	
    * Install Node.js	
    * Install Visual Studio Code	
@@ -22,35 +22,36 @@ Author : Gun Gun Febrianza
   * Pertanyaan, Kritik dan Saran?
 
 * <h2>Chapter 1	</h2>
-Belajar Open Web Platform
-Subchapter 1 – Apa itu Open Web Platform
-1.	Technical Specification
-2.	HTML 5.2	46
-Semantic Advantage	47
-Connectivity Advantage	47
-Storage Advantage	47
-Multimedia Advantage	47
-Performance Advantage	48
-Device Access Advantage	48
-Specification	48
-3.	Web Assembly	50
-Safe	51
-Fast	51
-Portable Code	51
-Compact Code	51
-Specification	52
-4.	EcmaScript	53
-Specification	54
-5.	Web Socket	55
-Specification	55
-Application	55
-6.	WebRTC	57
-Specification	57
-Application	57
-7.	WebGL	59
-Specification	59
-Application	59
-Subchapter 2 – Apa itu Web Application?	61
+* <h2>Belajar Open Web Platform	</h2>
+* <h2>Subchapter 1 – Apa itu Open Web Platform	</h2>
+  * 1.	Technical Specification
+  * 2.	HTML 5.2
+   * Semantic Advantage
+   * Connectivity Advantage
+   * Storage Advantage
+   * Multimedia Advantage
+   * Performance Advantage
+   * Device Access Advantage
+   * Specification
+  * 3.	Web Assembly
+   * Safe
+   * Fast
+   * Portable Code
+   * Compact Code
+   * Specification
+  * 4.	EcmaScript
+   * Specification
+  * 5.	Web Socket
+   * Specification
+   * Application
+  * 6.	WebRTC
+   * Specification
+   * Application
+  * 7.	WebGL
+   * Specification
+   * Application
+  
+* <h2>Subchapter 2 – Apa itu Web Application?</h2>
 1. Server	63
 File Server	64
 Mail Server	65
