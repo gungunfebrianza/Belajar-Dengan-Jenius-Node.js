@@ -364,261 +364,262 @@ Subchapter 5 – Function
    * 2. Add Object Method	
   * Custom Object Looping	
   * JSON	
-   * 1.JSON & Object Literal	
+   * 1. JSON & Object Literal	
    * 2. Stringify	
    * 3. Parse JSON	
    * 4. Parse Date in JSON	
 
-* Subchapter 8 – Classes	382
-1. Class-based language	383
-2. Class Declaration	386
-Strict Mode	386
-Constructor	386
-Static Method	387
-Getter & Setter	388
-3.	Class Expression	390
-Unnamed Class	390
-Named Class	391
-4.	Class Inheritance	392
-Method Override	394
-Constructor Override	396
+* Subchapter 8 – Classes	
+  * Class-based language	
+  * Class Declaration	
+   * 1. Strict Mode	
+   * 2. Constructor	
+   * 3. Static Method	
+   * 4. Getter & Setter	
+  * Class Expression	
+   * 1. Unnamed Class	
+   * 2. Named Class	
+  * Class Inheritance	
+   * 1. Method Override	
+   * 2. Constructor Override	
 
-* Subchapter 9 – Collection	397
-1. Apa itu Collection?	397
-Iterable	398
-Keyed	398
-Destructurable	398
-2. Apa itu Indexed Collections?	399
-Array	399
-Create Array	399
-Array Property & Method	405
-Array Properties	405
-Multidimensional Array	409
-3. Keyed Collections	411
-Map	411
-Set	415
+* Subchapter 9 – Collection	
+  * Apa itu Collection?	
+   * 1. Iterable	
+   * 2. Keyed	
+   * 1. Destructurable	
+  * Apa itu Indexed Collections?	
+   * 1. Array	
+   * 2. Create Array	
+   * 3. Array Property & Method	
+   * 4. Array Properties	
+   * 5. Multidimensional Array	
+  * Keyed Collections	
+   * 1. Map	
+   * 2. Set	
 
-* Chapter 4	419
-* Mastering Node.js	419
+* Chapter 4	
+* Mastering Node.js	
 
-* Subchapter 1 – Re-introduction Javascript	419
-1.	System Programming	421
-2.	Node.js System	424
-Test Node.js Executable	425
-3.  I/O Scaling Problem	425
-4.	Process & Thread	426
-Multithread	428
-5.	Core Modules & libuv	432
+* Subchapter 1 – Re-introduction Javascript	
+  * System Programming	
+  * Node.js System	
+Test Node.js Executable	
+  * I/O Scaling Problem	
+  * Process & Thread	
+   * 1. Multithread	
+  * Core Modules & libuv	
 
-* Subchapter 2 – V8 Javascript Engine	434
-1.The Call Stack	436
-Synchronous Program	437
-Asynchronous Program	439
-Event Loops	443
-Blocking	445
-Non-blocking	445
-2.Javascript Compilation Pipeline	446
-Interpreter & Compiler	446
-Machine Code	451
-Ignition & Turbofan	453
-Intermediate Representation (IR)	455
-Bytecode	456
-Just-in-Time Compilation	457
-Compiler Development Philosophy	457
-3.Memory Management	458
-Memory Lifecycle	458
-Allocation Example	458
-Garbage Collector	459
-Mark-and-Sweep Algorithm	459
+* Subchapter 2 – V8 Javascript Engine	
+  * The Call Stack	
+   * 1. Synchronous Program	
+   * 2. Asynchronous Program	
+   * 3. Event Loops	
+   * 4. Blocking	
+   * 5. Non-blocking	
+  * Javascript Compilation Pipeline	
+   * 1. Interpreter & Compiler	
+   * 2. Machine Code	
+   * 3. Ignition & Turbofan	
+   * 4. Intermediate Representation (IR)	
+   * 5. Bytecode	
+   * 6. Just-in-Time Compilation	
+   * 7. Compiler Development Philosophy	
+  * Memory Management	
+   * 1. Memory Lifecycle	
+   * 2. Allocation Example	
+   * 3. Garbage Collector	
+   * 4. Mark-and-Sweep Algorithm	
 
-* Subchapter 3 – Node.js Application	468
-1.	Running Javascript File	468
-2.	Node REPL	470
-3.	Module Concept	472
-Modules	472
-Packages	472
-Dependencies	472
-4.	Node.js Module	474
-Module Format	475
-Module Loaders	475
-Module Bundlers	476
-Create & Export Module	478
-Use Module	479
-Export Multiple Method & Value	480
-Export Style	481
-Destructure Assignment	481
-Export Class	482
-5.	Package Manager	483
-6.	Node Package Manager	485
-npm commands	485
-7.	Node Package Registry	488
-8.	Create Node.js package	491
-package.json	493
-Directive	493
-Search Package	495
-Install Package	496
-Remove Package	497
-View Package	497
-Publish Package	498
-Create Package	498
-9.	Publish Node.js Package	500
-10. Node.js Application	504
+* Subchapter 3 – Node.js Application	
+  * Running Javascript File	
+  * Node REPL	
+  * Module Concept	
+   * 1. Modules	
+   * 2. Packages	
+   * 3. Dependencies	
+  * Node.js Module	
+   * 1. Module Format	
+   * 2. Module Loaders	
+   * 3. Module Bundlers	
+   * 4. Create & Export Module	
+   * 5. Use Module	
+   * 6. Export Multiple Method & Value	
+   * 7. Export Style	
+   * 8. Destructure Assignment	
+   * 9. Export Class	
+  * Package Manager	
+  * Node Package Manager	
+   * 1. npm commands	
+  * Node Package Registry	
+  * Create Node.js package	
+   * 1. package.json	
+   * 2. Directive	
+   * 3. Search Package	
+   * 4. Install Package	
+   * 5. Remove Package	
+   * 6. View Package	
+   * 7. Publish Package	
+   * 8. Create Package	
+  * Publish Node.js Package	
+  * Node.js Application	
 
-* Subchapter 4 – Debugging Node.js	506
-1.	Debug on Visual Studio Code	506
-2. Built-in Node.js Debugger	510
+* Subchapter 4 – Debugging Node.js	
+  * Debug on Visual Studio Code	
+  * Built-in Node.js Debugger	
 
-* Subchapter 5 – Asynchronous	514
-1.	Callback	514
-2.	Promise	514
-3.	Async Await	514
+* Subchapter 5 – Asynchronous	
+  * Callback	
+  * Promise	
+  * Async Await	
 
-* Chapter 6	515
-* Amazon Web Service	515
+* Chapter 6	
+* Amazon Web Service	
 
-* Subchapter 1 – AWS Resources	518
-1.	Computing Power	518
-Amazon Lightsail	518
-Amazon Elastic Compute Cloud (EC2)	520
-Amazon Elastic Container Service (ECS)	521
-2.	Storage Power	522
-Amazon Simple Storage Service (S3)	522
-Amazon Glacier	523
-Amazon Elastic Block Store (EBS)	524
-Amazon Elastic File System (EFS)	524
+* Subchapter 1 – AWS Resources	
+  * Computing Power	
+   * 1. Amazon Lightsail	
+   * 2. Amazon Elastic Compute Cloud (EC2)	
+   * 3. Amazon Elastic Container Service (ECS)	
+  * Storage Power	
+   * 1. Amazon Simple Storage Service (S3)	
+   * 2. Amazon Glacier	
+   * 3. Amazon Elastic Block Store (EBS)	
+   * 4. Amazon Elastic File System (EFS)	
 
-* Subchapter 2 – AWS CLI V1 & V2	525
-1.	Command Line Interface (CLI)	525
-Linux Shell	525
-Windows Command Line	525
-Remote	526
-2.	AWS CLI V2	527
-Install AWS CLI V2 on Linux	527
-Install AWS CLI V2 on MacOS	527
-Install AWS CLI V2 on Windows	528
-3.	AWS CLI V1	529
-Install AWS CLI	529
-Upgrade AWS CLI	529
-Verify AWS CLI	529
+* Subchapter 2 – AWS CLI V1 & V2	
+  * Command Line Interface (CLI)	
+   * 1. Linux Shell	
+   * 2. Windows Command Line	
+   * 3. Remote	
+  * AWS CLI V2	
+   * 1. Install AWS CLI V2 on Linux	
+   * 2. Install AWS CLI V2 on MacOS	
+   * 3. Install AWS CLI V2 on Windows	
+  * AWS CLI V1	
+   * 1. Install AWS CLI	
+   * 2. Upgrade AWS CLI	
+   * 3. Verify AWS CLI	
 
-* Subchapter 3 – AWS IAM	531
-1.	Create IAM User	533
-Set User Details	534
-AWS Access Type	534
-Set Permission	534
-Tags	535
-IAM User Credential	535
-2.	AWS Configuration	537
-3.	Create IAM Role	538
-Add Policy to Role	539
-AWS Lambda Role	540
-AWS Lambda Basic Execution Role	542
-AWS Xray Write Only Access	543
-Tag & Review	544
-Trust Relationships	545
+* Subchapter 3 – AWS IAM	
+  * Create IAM User	
+   * 1. Set User Details	
+   * 2. AWS Access Type	
+   * 3. Set Permission	
+   * 4. Tags	
+   * 5. IAM User Credential	
+  * AWS Configuration	
+  * Create IAM Role	
+   * 1. Add Policy to Role	
+   * 2. AWS Lambda Role	
+   * 3. AWS Lambda Basic Execution Role	
+   * 4. AWS Xray Write Only Access	
+   * 5. Tag & Review	
+   * 6. Trust Relationships	
 
-* Subchapter 4 – AWS Lambda	547
-1.	Lambda Concept	548
-Handler	548
-Runtime	549
-2.	Lambda Function	550
-Create Lambda Function	550
+* Subchapter 4 – AWS Lambda	
+  * Lambda Concept	
+   * 1. Handler	
+   * 2. Runtime	
+  * Lambda Function	
+   * 1. Create Lambda Function	
 
-* Subchapter 5 – AWS API Gateway	556
-1.	API Gateway Service	557
-HTTP API	557
-REST API	557
-WebSocket API	557
-2.	API & App Developer	558
-API Developer	558
-App Developer	559
-3.	API Gateway Features	560
-Resources Management	560
-Method Execution Management	560
-Staging Management	562
-Models Management	562
-Throttling Management	563
-AWS CloudWatch Integration	563
-AWS X-Ray Integration	564
-AWS Cognito Integration	564
-AWS WAF Integration	565
-Export API	566
-Deployment History	566
-Documentation	566
-Dashboard Metrics	567
-4.	REST API	568
-Create REST API	570
-Create Resource	571
-Create Method	572
-Integration Request	575
-Test API	576
-Deploy API	577
-Export to Postman	580
-5.	Debugging & Troubleshooting	585
-Subchapter 6 – API Gateway & Lambda	590
+* Subchapter 5 – AWS API Gateway	
+  * API Gateway Service	
+   * 1. HTTP API	
+   * 2. REST API	
+   * 3. WebSocket API	
+  * API & App Developer	
+   * 1. API Developer	
+   * 2. App Developer	
+  * API Gateway Features	
+   * 1. Resources Management	
+   * 2. Method Execution Management	
+   * 3. Staging Management	
+   * 4. Models Management	
+   * 5. Throttling Management	
+   * 6. AWS CloudWatch Integration	
+   * 7. AWS X-Ray Integration	
+   * 8. AWS Cognito Integration	
+   * 9. AWS WAF Integration	
+   * 10. Export API	
+   * 11. Deployment History	
+   * 12. Documentation	
+   * 13. Dashboard Metrics	
+  * REST API	
+   * 1. Create REST API	
+   * 2. Create Resource	
+   * 3. Create Method	
+   * 4. Integration Request	
+   * 5. Test API	
+   * 6. Deploy API	
+   * 7. Export to Postman	
+  * Debugging & Troubleshooting	
+  
+Subchapter 6 – API Gateway & Lambda	
 
-* Chapter 7	592
-* Big Data	592
+* Chapter 7	
+* Big Data	
 
-* Subchapter 1 – Introduction to Database	592
-1. Database Function	594
-Data Management	594
-Scalability	595
-Data Heterogenity	595
-Eficiency	596
-Persistence	596
-Reliability	596
-Consistency	596
-Non-redundancy	596
-2. Use Case Database	597
-Aplikasi Penjualan (Sales)	597
-Aplikasi Accounting	597
-Aplikasi HR (Human Resources)	597
-Aplikasi Manufaktur	597
-Aplikasi e-Banking	597
-Aplikasi Keuangan	597
-3. Data Analytic	598
+* Subchapter 1 – Introduction to Database	
+  * Database Function	
+   * 1. Data Management	
+   * 2. Scalability	
+   * 3. Data Heterogenity	
+   * 4. Eficiency	
+   * 5. Persistence	
+   * 6. Reliability	
+   * 7. Consistency	
+   * 8. Non-redundancy	
+  * Use Case Database	
+   * 1. Aplikasi Penjualan (Sales)	
+   * 2. Aplikasi Accounting	
+   * 3. Aplikasi HR (Human Resources)	
+   * 4. Aplikasi Manufaktur	
+   * 5. Aplikasi e-Banking	
+   * 6. Aplikasi Keuangan	
+  * Data Analytic	
 
-* Subchapter 2 – AWS Database	599
-1.	Managed Relational Database	599
-Amazon Relational Database Service (RDS)	599
-Amazon Aurora	599
-2.	Nonrelational Database	600
-Amazon DynamoDB	600
-Amazon DocumentDB	600
-3.	Data Warehouse Database	600
-Amazon Redshift	600
-4.	In-memory Data store Database	600
-Amazon ElastiCache	601
-5.	Time-series Database	601
-Amazon TimeStream	601
-6.	Ledger Database	601
-Amazon Quantum Ledger Database (QLDB)	602
-7.	Graph Database	602
-Amazon Neptune	602
-8.	Database Migration Service	602
-Amazon Database Migration Service (DMS)	602
+* Subchapter 2 – AWS Database	
+  * Managed Relational Database	
+   * 1. Amazon Relational Database Service (RDS)	
+   * 2. Amazon Aurora	
+  * Nonrelational Database	
+   * 1. Amazon DynamoDB	
+   * 2. Amazon DocumentDB	
+  * Data Warehouse Database	
+   * 1. Amazon Redshift	
+  * In-memory Data store Database	
+   * 1. Amazon ElastiCache	
+  * Time-series Database	
+   * 1. Amazon TimeStream	
+  * Ledger Database
+   * 1. Amazon Quantum Ledger Database (QLDB)	
+  * Graph Database	
+   * 1. Amazon Neptune	
+  * Database Migration Service	
+   * 1. Amazon Database Migration Service (DMS)	
 
 * Subchapter 3 – Introduction to Big Data	
 
 * Subchapter 4 – Introduction to NoSQL	
- * 1.	CAP Theorem	
-  * Consistency	
-  * Availability	
-  * Partition Tolerance	
- * 2.	BASE Approach	
-  * Basic Availability	
-  * Soft State	
-  * Eventual Consistency	
- * 3.	Keunggulan NoSQL?	
-  * Schemaless	
-  * Scalable	
- * 4.	Klasifikasi NoSQL Database	
-  * Key-value Store	
-  * Column-oriented	
-  * Graph	
-  * Document Oriented	
- * 5.	Big Data & NoSQL	
+ * CAP Theorem	
+   * 1. Consistency	
+   * 2. Availability	
+   * 3. Partition Tolerance	
+ * BASE Approach	
+  * 1. Basic Availability	
+  * 2. Soft State	
+  * 3. Eventual Consistency	
+ * Keunggulan NoSQL?	
+  * 1. Schemaless	
+  * 2. Scalable	
+ * Klasifikasi NoSQL Database	
+  * 3. Key-value Store	
+  * 4. Column-oriented	
+  * 5. Graph	
+  * 6. Document Oriented	
+ * Big Data & NoSQL	
  
 * Chapter 8	
 * Web Service	
@@ -629,17 +630,13 @@ Amazon Database Migration Service (DMS)	602
  * JSON-RPC	
  
 * Subchapter 3 – REST	
- * 1.RESTful Web Service	
-  * Uniform Interface	
-  * Client-Server Architecture	
-  * Stateless	
-  * Cacheable	
-  * Layered System	
-  * Code on demand	
+ * RESTful Web Service	
+  * 1. Uniform Interface	
+  * 2. Client-Server Architecture	
+  * 3. Stateless	
+  * 4. Cacheable	
+  * 5. Layered System	
+  * 6. Code on demand	
   
 * Daftar Pustaka	
 * Tentang Penulis	
-
-
-
-
