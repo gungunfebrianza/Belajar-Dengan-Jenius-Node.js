@@ -12,7 +12,7 @@ Author : Gun Gun Febrianza
 ## Table of Contents
 ## Open Library Indonesia
 * <h2>Metode Belajar</h2>	
-  * <h3>Learning Problems & Abstraction Control</h3>	
+  * Learning Problems & Abstraction Control
 * <h2>Matthew Effect in Reading</h2>	
 * <h2>Persiapan	</h2>	
   * Apa saja yang harus dipersiapkan?	
@@ -22,17 +22,17 @@ Author : Gun Gun Febrianza
     * Install Google Chrome atau Firefox.	
     * Install git
     * Install Postman
-Konvensi Penulisan?
-Feedback?
-Kode Sumber?
-Penggunaan Kode ?	14
-Terdapat Kesalahan?	15
-Pertanyaan, Kritik dan Saran?	15
-Table of Contents	16
-Chapter 1	44
-Belajar Open Web Platform	44
-Subchapter 1 – Apa itu Open Web Platform	44
-1.	Technical Specification	46
+  * Konvensi Penulisan?
+  * Feedback?
+  * Kode Sumber?
+  * Penggunaan Kode ?
+  * Terdapat Kesalahan?
+  * Pertanyaan, Kritik dan Saran?
+
+* <h2>Chapter 1	</h2>
+Belajar Open Web Platform
+Subchapter 1 – Apa itu Open Web Platform
+1.	Technical Specification
 2.	HTML 5.2	46
 Semantic Advantage	47
 Connectivity Advantage	47
