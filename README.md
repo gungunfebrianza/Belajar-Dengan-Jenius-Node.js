@@ -21,9 +21,10 @@ Author : Gun Gun Febrianza
   * Terdapat Kesalahan?
   * Pertanyaan, Kritik dan Saran?
 
-* <h2>Chapter 1	</h2>
-* <h2>Belajar Open Web Platform	</h2>
-* <h2>Subchapter 1 – Apa itu Open Web Platform	</h2>
+* Chapter 1
+* Belajar Open Web Platform
+
+* Subchapter 1 – Apa itu Open Web Platform
   * 1.	Technical Specification
   * 2.	HTML 5.2
    * Semantic Advantage
@@ -51,7 +52,7 @@ Author : Gun Gun Febrianza
    * Specification
    * Application
   
-* <h2>Subchapter 2 – Apa itu Web Application?</h2>
+* Subchapter 2 – Apa itu Web Application?
   * 1. Server
    * File Server
    * Mail Server
@@ -87,233 +88,245 @@ Author : Gun Gun Febrianza
    * FaaS Provider
    * AWS Lambda
    
-Subchapter 3 – Bedah Konsep HTTP	97
-1. HTTP & URL	97
-HTTP	97
-Hypertext & Hyperlink	97
-Hypermedia	98
-World Wide Web (www)	99
-Uniform Resources Identifier (URI)	99
-URL / Web Resources	100
-2. HTTP & DNS	103
-IP Address	103
-DNS Resolver	104
-Root Server & TLD Server	105
-3. HTTP Transaction	109
-TCP Thee-way Handshake	109
-4. HTTP Request	112
-HTTP Method	112
-Message	114
-HTTP Header	115
-Header Attribute	116
-MIME	117
-5. HTTP Response	118
-6. HTTP Status Message	120
-Subchapter 4 – Web Security	123
-1. Data in The Low Level	123
-Host	123
-Socket	123
-Bit	125
-Byte	125
-Bytes	125
-Character	126
-ASCII	126
-Data Transmission	127
-Base64 Encoding	128
-2. Cryptography	130
-Cryptanalysis	131
-Information Security	132
-Ciphertext	132
-Symmetric Cryptography	135
-Hash Function	139
-Message Authentication Codes (MAC)	140
-Assymetric Cryptography	143
-Cryptography Protocol	144
-3. Man In The Middle (MITM) Attack	146
-Eavesdropping	146
-4. HTTPS	149
-Perbedaan HTTP & HTTPS	150
-Manfaat HTTPS	151
-5. Secure Socket Layer (SSL)	153
-Transport Socket Layer (TLS)	153
-SSL Handshake	153
-Chapter 2	156
-Setup Learning Environment	156
-Subchapter 1 – Visual Studio Code	156
-1. Install Programming Language Support	160
-2. Install Keybinding	163
-3. Install & Change Theme Editor	165
-4. The File Explorer	166
-5. Search Feature	168
-6. Source Control	170
-7. Debugger	171
-8. Extension	171
-Auto Fold	172
-Better Comment	173
-Bookmarks	174
-Javascript (ES6) Code Snippets	176
-Path Intellisense	177
-VSCode Great Icons	178
-9. The Terminal	179
-Menambah Terminal Baru	179
-Melakukan Split Terminal	180
-Mengubah Posisi Terminal	180
-Menghapus Terminal	181
-10. Performance Optimization	182
-11. Zen Mode	183
-12. Display Multiple File	184
-13. Font Ligature	185
-Subchapter 2 – Web Browser	188
-1. Web Browser	188
-2. WebConsole	188
-Autocomplete	189
-Syntax Highlighting	190
-Execution History	191
-3. Multiline Code Editor	192
-Subchapter 3 – Javascript REPL	193
-1. Node.js	193
-Apa itu REPL?	193
-Apa itu Shell?	194
-Node Virtual Machine	194
-2. JSBin	196
-Chapter 3	197
-Mastering Javascript	197
-Subchapter 1 – Introduction to Javascript	197
-1. Hello World	199
-2. Comment	200
-3. Expression & Operator	201
-Statement	201
-Expression	202
-Operator & Operand	202
-Operator Precedence	202
-Arithmetic Operator	203
-Arithmetic Operation	204
-Comparison Operator	209
-Logical Operator	212
-Assignment Operator	214
-4. Javascript Strict Mode	216
-Legacy Code	216
-5. Automatic Add Semicolon	219
-7. Variable Declaration	220
-Variable	220
-Binding	221
-Reserved Words	222
-Naming Convention	223
-Case Sensitivity	225
-Loosely Typed Language	227
-Var Keyword	227
-Let Keyword	229
-Constant Keyword	231
-8. Clean Code Variable Declaration	233
-Avoid Global Variable	233
-Declaration on Top	233
-Initialize Variable	233
-Use Const or Let	234
-Subchapter 2 – Data Types	236
-1. Javascript Data Types	236
-Apa itu Data?	236
-Apa itu Types?	237
-Apa itu Generic Variable?	238
-Javascript Data Types	238
-Apa itu Pointer?	239
-Apa itu Stack & Heap?	240
-Apa itu Primitive & Reference Values?	240
-Primitive Types	241
-Reference Types	244
-Primitive as Object via Object Wrapper	246
-2. Data Types Conversion	247
-Dynamic Typed	247
-String To Number	247
-String To Decimal Number	248
-Number to String	248
-Decimal Number to String	249
-Boolean to String	249
-Check Data Type	249
-3. Number Data Types	251
-Infinity	252
-NaN	254
-Maximum & Minimum Value	255
-Max Safe Integer	256
-Safe Integer Checking	257
-Positive e Notation	258
-Negative e Notation	258
-Rounding	259
-Precision	260
-Exponentiation	260
-e Notation Trigger	261
-Number Accuration	262
-Imprecise Calculation	263
-Solution to Imprecise	264
-Fixed Number	265
-Numeric Conversion	265
-Math Object	267
-Hexadecimal, Binary dan Octadecimal	267
-4. String Data Types	269
-Double Quote String	269
-Single Quote String	270
-String Concatenation	270
-Numeric String Characteristic	271
-Escaping	272
-Template String	273
-String Objects & Primitives	274
-String Function	275
-5. Booleans Data Types	278
-6. Null Data Types	280
-7. Undefined Data Types	282
-8. Symbol Data Types	283
-9. BigInt Data Types	285
-Arbitrary Precision	285
-Arithmetic Operation	287
-Comparison	287
-10. Clean Code Data Types	289
-Declare Primitive Not Object	289
-Stop using new Keyword	289
-Subchapter 3 – Control Flow	291
-1.	Block Statements	291
-2.	Conditional Statements	292
-3.	Ternary Operator	293
-4.	Multiconditional Statement	294
-5.	Switch Style	296
-Subchapter 4 – Loop & Iteration	298
-1.	While Statement	298
-2.	Do … While Statement	300
-3.	For Statement	301
-4.	Break Statement	303
-5.	Continue Statement	304
-6.	Labeled Statement	305
-Subchapter 5 – Function	306
-1. Apa itu Function?	306
-Function Declaration	307
-Function Expression	307
-Arrow Function Expression	307
-2. First-class Function	308
-What is Execution Context (EC)?	308
-3. Simple Function	312
-4. Function Parameter	313
-5. Function Return	315
-6. Function For Function Parameter	317
-7. Function & Local Variable	318
-8. Function & Outer Variable	319
-9. Callback Function	320
-10. Arrow Function	321
-11. Multiline Arrow Function	322
-12. Anonymous Function	323
-13. Function Constructor	324
-14. Function As Expression	325
-15. Nested Function	326
-16. Argument Object	327
-17. This Keyword	328
-Implicit Binding	328
-18. Call & Apply Function	330
-Explicit Binding	331
-Call	331
-Apply	332
-19. IIFE	334
-20. Clean Code Function	335
-Always Declare Local Variable	335
-Use Named Function Expression	335
-Use Default Parameter	336
-Function is not statement	336
+* Subchapter 3 – Bedah Konsep HTTP	
+  * 1. HTTP & URL	
+   * HTTP	
+   * Hypertext & Hyperlink	
+   * Hypermedia	
+   * World Wide Web (www)	
+   * Uniform Resources Identifier (URI)	
+   * URL / Web Resources	
+  * 2. HTTP & DNS	
+   * IP Address	
+   * DNS Resolver	
+   * Root Server & TLD Server	
+  * 3. HTTP Transaction	
+   * TCP Thee-way Handshake	
+  * 4. HTTP Request	
+   * HTTP Method	
+   * Message	
+   * HTTP Header	
+   * Header Attribute	
+   * MIME	
+  * 5. HTTP Response	
+  * 6. HTTP Status Message	
+  
+* Subchapter 4 – Web Security	
+  * 1. Data in The Low Level	
+   * Host	
+   * Socket	
+   * Bit	
+   * Byte	
+   * Bytes	
+   * Character	
+   * ASCII	
+   * Data Transmission	
+   * Base64 Encoding	
+  * 2. Cryptography	
+   * Cryptanalysis	
+   * Information Security	
+   * Ciphertext	
+   * Symmetric Cryptography	
+   * Hash Function	
+   * Message Authentication Codes (MAC)	
+   * Assymetric Cryptography	
+   * Cryptography Protocol	
+  * 3. Man In The Middle (MITM) Attack	
+   * Eavesdropping	
+  * 4. HTTPS	
+   * Perbedaan HTTP & HTTPS	
+   * Manfaat HTTPS	
+  * 5. Secure Socket Layer (SSL)	
+   * Transport Socket Layer (TLS)	
+   * SSL Handshake	
+
+* Chapter 2
+* Setup Learning Environment
+
+* Subchapter 1 – Visual Studio Code	
+  * 1. Install Programming Language Support	
+  * 2. Install Keybinding	
+  * 3. Install & Change Theme Editor	
+  * 4. The File Explorer	
+  * 5. Search Feature	
+  * 6. Source Control	
+  * 7. Debugger	
+  * 8. Extension	
+   * Auto Fold	
+   * Better Comment	
+   * Bookmarks	
+   * Javascript (ES6) Code Snippets	
+   * Path Intellisense
+   * VSCode Great Icons
+  * 9. The Terminal
+   * Menambah Terminal Baru
+   * Melakukan Split Terminal
+   * Mengubah Posisi Terminal	
+   * Menghapus Terminal	
+  * 10. Performance Optimization	
+  * 11. Zen Mode	
+  * 12. Display Multiple File	
+  * 13. Font Ligature	
+  
+* Subchapter 2 – Web Browser
+  * 1. Web Browser	
+  * 2. WebConsole	
+   * Autocomplete	
+   * Syntax Highlighting	
+   * Execution History	
+  * 3. Multiline Code Editor	
+  
+* Subchapter 3 – Javascript REPL	
+  * 1. Node.js	
+   * Apa itu REPL?	
+   * Apa itu Shell?	
+   * Node Virtual Machine	
+  * 2. JSBin	
+  
+* Chapter 3	
+* Mastering Javascript	
+
+* Subchapter 1 – Introduction to Javascript	
+  * 1. Hello World	
+  * 2. Comment	
+  * 3. Expression & Operator	
+   * Statement	
+   * Expression	
+   * Operator & Operand	
+   * Operator Precedence	
+   * Arithmetic Operator	
+   * Arithmetic Operation	
+   * Comparison Operator	
+   * Logical Operator	
+   * Assignment Operator	
+  * 4. Javascript Strict Mode	
+   * Legacy Code	
+  * 5. Automatic Add Semicolon	
+  * 6. Variable Declaration	
+   * Variable	
+   * Binding	
+   * Reserved Words	
+   * Naming Convention	
+   * Case Sensitivity	
+   * Loosely Typed Language	
+   * Var Keyword	
+   * Let Keyword	
+   * Constant Keyword	
+  * 7. Clean Code Variable Declaration	
+   * Avoid Global Variable	
+   * Declaration on Top	
+   * Initialize Variable	
+   * Use Const or Let	
+
+* Subchapter 2 – Data Types	
+  * 1. Javascript Data Types	
+   * Apa itu Data?	
+   * Apa itu Types?	
+   * Apa itu Generic Variable?	
+   * Javascript Data Types	
+   * Apa itu Pointer?	
+   * Apa itu Stack & Heap?	
+   * Apa itu Primitive & Reference Values?	
+   * Primitive Types	
+   * Reference Types	
+   * Primitive as Object via Object Wrapper	
+  * 2. Data Types Conversion	
+   * Dynamic Typed	
+   * String To Number	
+   * String To Decimal Number	
+   * Number to String	
+   * Decimal Number to String	
+   * Boolean to String	
+   * Check Data Type	
+  * 3. Number Data Types	
+   * Infinity	
+   * NaN	
+   * Maximum & Minimum Value	
+   * Max Safe Integer	
+   * Safe Integer Checking
+   * Positive e Notation	
+   * Negative e Notation	
+   * Rounding	
+   * Precision	
+   * Exponentiation	
+   * e Notation Trigger	
+   * Number Accuration	
+   * Imprecise Calculation	
+   * Solution to Imprecise	
+   * Fixed Number	
+   * Numeric Conversion	
+   * Math Object	
+   * Hexadecimal, Binary dan Octadecimal	
+  * 4. String Data Types	
+   * Double Quote String	
+   * Single Quote String	
+   * String Concatenation	
+   * Numeric String Characteristic	
+   * Escaping	
+   * Template String	
+   * String Objects & Primitives	
+   * String Function	
+  * 5. Booleans Data Types
+  * 6. Null Data Types
+  * 7. Undefined Data Types	
+  * 8. Symbol Data Types	
+  * 9. BigInt Data Types	
+   * Arbitrary Precision	
+   * Arithmetic Operation	
+   * Comparison	
+  * 10. Clean Code Data Types	
+   * Declare Primitive Not Object	
+   * Stop using new Keyword	
+
+Subchapter 3 – Control Flow	
+  * 1.	Block Statements	
+  * 2.	Conditional Statements	
+  * 3.	Ternary Operator	
+  * 4.	Multiconditional Statement	
+  * 5.	Switch Style	
+  
+Subchapter 4 – Loop & Iteration	
+  * 1.	While Statement	
+  * 2.	Do … While Statement	
+  * 3.	For Statement	
+  * 4.	Break Statement	
+  * 5.	Continue Statement	
+  * 6.	Labeled Statement	
+  
+Subchapter 5 – Function	
+  * 1. Apa itu Function?	
+   * Function Declaration	
+   * Function Expression	
+   * Arrow Function Expression	
+  * 2. First-class Function	
+   * What is Execution Context (EC)?	
+  * 3. Simple Function	
+  * 4. Function Parameter	
+  * 5. Function Return	
+  * 6. Function For Function Parameter	
+  * 7. Function & Local Variable	
+  * 8. Function & Outer Variable	
+  * 9. Callback Function	
+  * 10. Arrow Function	
+  * 11. Multiline Arrow Function	
+  * 12. Anonymous Function	
+  * 13. Function Constructor	
+  * 14. Function As Expression	
+  * 15. Nested Function	
+  * 16. Argument Object	
+  * 17. This Keyword	
+   * Implicit Binding	
+  * 18. Call & Apply Function	
+   * Explicit Binding	
+   * Call	
+   * Apply	
+  * 19. IIFE	
+  * 20. Clean Code Function	
+   * Always Declare Local Variable	
+   * Use Named Function Expression	
+   * Use Default Parameter	
+   * Function is not statement
+
 Subchapter 6 – Error Handling	338
 1.	Syntax Error	339
 Missing Syntax	339
