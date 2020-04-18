@@ -27,8 +27,8 @@ Author : Gun Gun Febrianza
 * Subchapter 1 – Apa itu Open Web Platform
   * Technical Specification
   * HTML 5.2
-   * 1 Semantic Advantage
-   * 2 Connectivity Advantage
+   * 1. Semantic Advantage
+   * 2. Connectivity Advantage
    * 3 Storage Advantage
    * 4 Multimedia Advantage
    * 5 Performance Advantage
