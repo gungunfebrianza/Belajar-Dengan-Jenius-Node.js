@@ -14,7 +14,6 @@ Learning Problems & Abstraction Control
   * ###  Apa saja yang harus dipersiapkan?	
     * Install Node.js	
     * Install Visual Studio Code	
-    * Install Python
     * Install Google Chrome atau Firefox.	
     * Install git
     * Install Postman
@@ -76,7 +75,7 @@ Learning Problems & Abstraction Control
     * 4. Single Page Application (SPA)
   * ### Network
     * 1. Local Area Network (LAN)
-    * 2. World Area Network (WAN)
+    * 2. Wide Area Network (WAN)
     * 3. Internet Service Provide (ISP)
   * ### Internet
     * 1. Internet Transit
