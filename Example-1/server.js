@@ -3,7 +3,7 @@ const cors = require("cors");
 
 const app = express();
 
-const db = require("./app/models");
+const db = require("./models/index");
 // db.sequelize.sync();
 db.sequelize.sync({ force: true }).then(() => {
   console.log("Drop and re-sync db.");
@@ -25,6 +25,8 @@ app.use(express.urlencoded({ extended: true }));
 app.get("/", (req, res) => {
   res.json({ message: "Hello World!" });
 });
+
+require("./routes/tutorial.routes")(app);
 
 // set port, listen for requests
 const PORT = process.env.PORT || 8080;
