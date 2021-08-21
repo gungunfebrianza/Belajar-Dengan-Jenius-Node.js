@@ -346,7 +346,7 @@ Learning Problems & Abstraction Control
     * Finnaly	
   * ### Custom Error	
 ***
-* ### Subchapter 7 – Object	
+* ### Subchapter 7 – [Object](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md)	
   * ### Apa itu Fundamental Objects?	
   * ### Custom Object	
     * Object Initializer	
