@@ -2,7 +2,7 @@
 ## Author : Gun Gun Febrianza
 
 
-<img src="Cover.png">
+<img src="cover.png" style="zoom:50%;" />
 
 
 ## Table of Contents
