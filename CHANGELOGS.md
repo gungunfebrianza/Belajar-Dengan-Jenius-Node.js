@@ -4,6 +4,13 @@
 
 ### Change Logs
 
+#### 22-08-2021
+
+##### Theory & Code Example
+
+- [x] Tambah Kajian Tentang **Object Class** pada Subchapter 7 **Object**
+- [x] Tambah Kajian Tentang **Date Object** pada Subchapter 7 **Object**
+
 #### 10-08-2020
 
 ##### Illustration
