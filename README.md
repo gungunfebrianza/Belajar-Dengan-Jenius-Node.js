@@ -1,7 +1,6 @@
 # Belajar Dengan Jenius Amazon Web Service & Node.js
 ## Author : Gun Gun Febrianza
 
-
 <img src="Cover.png" style="zoom:50%;" />
 
 
@@ -347,16 +346,18 @@ Learning Problems & Abstraction Control
   * ### Custom Error	
 ***
 * ### Subchapter 7 – [Object](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md)	
-  * ### Apa itu Fundamental Objects?	
-  * ### Custom Object	
-    * Object Initializer	
-    * Object Property	
-    * Object Method	
-    * Object Constructor	
-    * Function Constructor	
-    * Object Prototype	
-    * Getter & Setter	
-    * Object Destructure	
+  * ### [Apa itu Fundamental Objects?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#fundamental-object)
+  * ### [Custom Object](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#custom-object)
+    * [Object Initializer](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-initializer)
+      * [Key & Value](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#key--value)
+    * [Object Property](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-property)	
+    * [Object Method](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-method)	
+    * [Object Constructor](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-constructor)	
+    * [Function Constructor](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#function-constructor)
+      * [Mutable](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#apa-itu-mutable)
+    * [Object Prototype](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-prototype)	
+    * [Getter & Setter](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#getter--setter)	
+    * [Object Destructure](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-destructure)	
   * ### Custom Object Property	
     * Add Object Property	
     * Access Object Property	
