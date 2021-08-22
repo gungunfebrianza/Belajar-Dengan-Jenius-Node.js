@@ -347,6 +347,7 @@ Learning Problems & Abstraction Control
 ***
 * ### Subchapter 7 – [Object](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md)	
   * ### [Apa itu Fundamental Objects?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#fundamental-object)
+  
   * ### [Custom Object](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#custom-object)
     * [Object Initializer](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-initializer)
       * [Key & Value](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#key--value)
@@ -358,16 +359,33 @@ Learning Problems & Abstraction Control
     * [Object Prototype](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-prototype)	
     * [Getter & Setter](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#getter--setter)	
     * [Object Destructure](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/blob/master/id/C2.Sub7.Object.md#object-destructure)	
+    
   * ### Custom Object Property	
     * Add Object Property	
     * Access Object Property	
     * Delete Object Property	
     * Check Object Property	
+    
   * ### Custom Object Method	
     * Access Object Method	
     * Add Object Method	
+    
   * ### Custom Object Looping	
+  
+  * ### Object Class
+    
+    * Object.create()
+    * Object.defineProperty()
+    * Object.defineProperties()
+    * Object.assign()
+    * Object.entries()
+    * Object.keys()
+    * Object.values()
+    * Object.is()
+    * Object.freeze()
+    
   * ### JSON	
+    
     * JSON & Object Literal	
     * Stringify	
     * Parse JSON	
